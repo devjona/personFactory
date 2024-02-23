@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mocha": "^10.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
