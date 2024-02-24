@@ -22,3 +22,10 @@
 - [JavaScript Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 - [Mocha JS](https://mochajs.org/) (for testing)
 - I'd like to highlight the [Node #assert](https://nodejs.org/api/assert.html#assert) module.
+
+## GitHub Actions:
+
+A **push** or a \*pull request\*\* to `main` triggers GitHub Actions:
+
+1. `yarn install`
+1. `yarn test`
