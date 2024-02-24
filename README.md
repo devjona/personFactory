@@ -25,7 +25,6 @@
 
 ## GitHub Actions:
 
-A **push** or a \*pull request\*\* to `main` triggers GitHub Actions:
+A **push** or a **pull request** to `main` triggers GitHub Actions:
 
-1. `yarn install`
-1. `yarn test`
+1. A `Node.js CI` process that ensures `yarn test` passes.
