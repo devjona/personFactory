@@ -59,8 +59,6 @@ describe("personFactory", function () {
           persona.intro(),
           "Hello! My settings are smart: false and nice: true"
         );
-
-        assert.strictEqual(1, 2);
       });
     });
   });
