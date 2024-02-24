@@ -25,4 +25,7 @@
 
 ## GitHub Actions:
 
-I'm updating this README so that I have a change to merge into `main`. Let's see if a PR triggers it.
+A **push** or a \*pull request\*\* to `main` triggers GitHub Actions:
+
+1. `yarn install`
+1. `yarn test`
